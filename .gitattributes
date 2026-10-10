@@ -1,0 +1,55 @@
+# Line endings: store text as LF in the repository; Git converts on checkout as needed
+* text=auto eol=lf
+
+# Windows-only scripts need CRLF to run correctly
+*.bat  text eol=crlf
+*.cmd  text eol=crlf
+*.ps1  text eol=crlf
+*.psm1 text eol=crlf
+*.psd1 text eol=crlf
+*.vbs  text eol=crlf
+*.sln  text eol=crlf
+
+# Scripts that run on Linux/macOS must stay LF
+*.sh   text eol=lf
+*.rb   text eol=lf
+*.py   text eol=lf
+
+# Better diffs for common languages
+*.md   diff=markdown
+*.cs   diff=csharp
+*.py   diff=python
+*.rb   diff=ruby
+*.html diff=html
+*.css  diff=css
+
+# Binary files: never convert or diff
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.webp  binary
+*.ico   binary
+*.pdf   binary
+*.zip   binary
+*.7z    binary
+*.gz    binary
+*.exe   binary
+*.dll   binary
+*.woff  binary
+*.woff2 binary
+*.ttf   binary
+*.otf   binary
+*.mp4   binary
+*.docx  binary
+*.xlsx  binary
+*.pptx  binary
+
+# Keep generated and third-party code out of GitHub's language stats
+*.min.js    linguist-generated
+*.min.css   linguist-generated
+vendor/**   linguist-vendored
+
+# Leave repository housekeeping out of "Download ZIP" and release archives
+.gitattributes export-ignore
+.github/       export-ignore

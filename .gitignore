@@ -1,0 +1,42 @@
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+id_rsa*
+id_ed25519*
+credentials*.json
+secrets.*
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Build output and dependencies
+bin/
+obj/
+dist/
+build/
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+_site/
+.jekyll-cache/

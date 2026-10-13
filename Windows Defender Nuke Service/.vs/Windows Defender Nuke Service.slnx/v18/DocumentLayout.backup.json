@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Documents\\Projects\\Windows-Defender-Nuke-Service\\Windows Defender Nuke Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A755A7-283F-4DBE-818C-FBBEF07F5F7C}|Windows Defender Nuke Service.csproj|c:\\users\\admin\\documents\\projects\\windows-defender-nuke-service\\windows defender nuke service\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A755A7-283F-4DBE-818C-FBBEF07F5F7C}|Windows Defender Nuke Service.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A755A7-283F-4DBE-818C-FBBEF07F5F7C}|Windows Defender Nuke Service.csproj|c:\\users\\admin\\documents\\projects\\windows-defender-nuke-service\\windows defender nuke service\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0A755A7-283F-4DBE-818C-FBBEF07F5F7C}|Windows Defender Nuke Service.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A755A7-283F-4DBE-818C-FBBEF07F5F7C}|Windows Defender Nuke Service.csproj|c:\\users\\admin\\documents\\projects\\windows-defender-nuke-service\\windows defender nuke service\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0A755A7-283F-4DBE-818C-FBBEF07F5F7C}|Windows Defender Nuke Service.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Windows Defender Nuke Service||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0A755A7-283F-4DBE-818C-FBBEF07F5F7C}|Windows Defender Nuke Service.csproj|c:\\users\\admin\\documents\\projects\\windows-defender-nuke-service\\windows defender nuke service\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Projects\\Windows-Defender-Nuke-Service\\Windows Defender Nuke Service\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Projects\\Windows-Defender-Nuke-Service\\Windows Defender Nuke Service\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T19:44:52.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Windows Defender Nuke Service",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Projects\\Windows-Defender-Nuke-Service\\Windows Defender Nuke Service\\Windows Defender Nuke Service.csproj",
+              "RelativeDocumentMoniker": "Windows Defender Nuke Service.csproj",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Projects\\Windows-Defender-Nuke-Service\\Windows Defender Nuke Service\\Windows Defender Nuke Service.csproj",
+              "RelativeToolTip": "Windows Defender Nuke Service.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-13T19:45:15.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Projects\\Windows-Defender-Nuke-Service\\Windows Defender Nuke Service\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Projects\\Windows-Defender-Nuke-Service\\Windows Defender Nuke Service\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T19:39:16.963Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Documents\\Projects\\Windows-Defender-Nuke-Service\\Windows Defender Nuke Service\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\admin\\Documents\\Projects\\Windows-Defender-Nuke-Service\\Windows Defender Nuke Service\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAowFsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T19:29:22.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
